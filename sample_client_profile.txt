@@ -1,0 +1,5 @@
+Name: John Doe
+Risk Tolerance: Moderate
+Investment Goal: Long-term growth
+Age: 45
+Investment Horizon: 15 years

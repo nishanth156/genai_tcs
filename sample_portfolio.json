@@ -1,0 +1,30 @@
+[
+  {
+    "asset": "AAPL",
+    "type": "Stock",
+    "quantity": 50,
+    "current_value": 9000,
+    "purchase_value": 7000
+  },
+  {
+    "asset": "TSLA",
+    "type": "Stock",
+    "quantity": 20,
+    "current_value": 12000,
+    "purchase_value": 8000
+  },
+  {
+    "asset": "Vanguard S&P 500 ETF",
+    "type": "ETF",
+    "quantity": 30,
+    "current_value": 11000,
+    "purchase_value": 9500
+  },
+  {
+    "asset": "US Treasury Bond",
+    "type": "Bond",
+    "quantity": 10,
+    "current_value": 10000,
+    "purchase_value": 10000
+  }
+]

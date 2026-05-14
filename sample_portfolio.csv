@@ -1,0 +1,5 @@
+asset,type,quantity,current_value,purchase_value
+AAPL,Stock,50,9000,7000
+TSLA,Stock,20,12000,8000
+Vanguard S&P 500 ETF,ETF,30,11000,9500
+US Treasury Bond,Bond,10,10000,10000
